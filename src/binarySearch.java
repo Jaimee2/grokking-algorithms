@@ -6,6 +6,7 @@ public class binarySearch {
         int[] array = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
         int result = binarySearch(array, 99);
         System.out.println("Result: " + result);
+
     }
 
     public static int binarySearch(int[] arr, int key) {
@@ -22,3 +23,4 @@ public class binarySearch {
 
     }
 }
+
